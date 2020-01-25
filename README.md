@@ -1,7 +1,3 @@
-# Code Institute
+site build for the code institute using CSS and HTML
 
-Welcome Datum,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+uses images and links to different wiki pages on each technology
